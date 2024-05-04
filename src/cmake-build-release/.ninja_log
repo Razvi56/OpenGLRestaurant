@@ -1,0 +1,27 @@
+# ninja log v5
+2	256	7302282361222137	CMakeFiles/Lab8_Blinn_Phong.dir/Camera.cpp.obj	e4d3e631b0f6c9dc
+3	944	7303083804069518	CMakeFiles/Lab8_Blinn_Phong.dir/main.cpp.obj	4087e102ac7bb72d
+12	576	7302112176278494	CMakeFiles/Lab8_Blinn_Phong.dir/Shader.cpp.obj	192d5dfbb2660811
+18	985	7302112180354189	CMakeFiles/Lab8_Blinn_Phong.dir/Mesh.cpp.obj	19850b663291a4a0
+15	1365	7302112184158690	CMakeFiles/Lab8_Blinn_Phong.dir/Model3D.cpp.obj	58e9ca0bd038939
+29	2363	7302112194150586	CMakeFiles/Lab8_Blinn_Phong.dir/tiny_obj_loader.cpp.obj	24e0ce0d0b28ec42
+9	2885	7302112199342272	CMakeFiles/Lab8_Blinn_Phong.dir/stb_image.cpp.obj	b8987be8ba75a1e9
+1205	1515	7303083809722660	Lab8_Blinn_Phong.exe	7414e2adc5c278c8
+21	503	7302112175529100	CMakeFiles/Lab8_Blinn_Phong.dir/ModelTransforms.cpp.obj	2954405921a123da
+6	400	7302184669119238	CMakeFiles/Lab8_Blinn_Phong.dir/SceneLighting.cpp.obj	90d839330e971133
+37	906	7302112179558965	CMakeFiles/Lab8_Blinn_Phong.dir/DirLight.cpp.obj	bf2460d9ba0187bc
+11	519	7302184670298027	CMakeFiles/Lab8_Blinn_Phong.dir/PointLight.cpp.obj	71a248038b80427d
+6	1205	7303083806671232	CMakeFiles/Lab8_Blinn_Phong.dir/TransformsAndLighting.cpp.obj	38b1c47780a0b1ff
+59	1160	7365497227113458	CMakeFiles/Lab8_Blinn_Phong.dir/ModelTransforms.cpp.obj	55080875a1a0eda2
+5	1231	7365497227856790	CMakeFiles/Lab8_Blinn_Phong.dir/Camera.cpp.obj	2e7cf7c5be7c4f91
+19	1318	7365497228736149	CMakeFiles/Lab8_Blinn_Phong.dir/Shader.cpp.obj	1d566e7e9ad80d0f
+29	1652	7365497232072812	CMakeFiles/Lab8_Blinn_Phong.dir/DirLight.cpp.obj	47e9f88761b8da0a
+50	1667	7365497232223951	CMakeFiles/Lab8_Blinn_Phong.dir/SceneLighting.cpp.obj	72e2d255f8c3c096
+24	1826	7365497233829203	CMakeFiles/Lab8_Blinn_Phong.dir/Mesh.cpp.obj	532e70c8a899935
+69	2156	7365497237122682	CMakeFiles/Lab8_Blinn_Phong.dir/PointLight.cpp.obj	b67fb4618e1c9c5d
+11	2466	7365497240227033	CMakeFiles/Lab8_Blinn_Phong.dir/main.cpp.obj	6c4d4ab931f450c0
+15	2758	7365497243133564	CMakeFiles/Lab8_Blinn_Phong.dir/Model3D.cpp.obj	bbf7833866693604
+34	2934	7365497244912954	CMakeFiles/Lab8_Blinn_Phong.dir/TransformsAndLighting.cpp.obj	8c27452f5bb274e5
+40	4499	7365497260563867	CMakeFiles/Lab8_Blinn_Phong.dir/tiny_obj_loader.cpp.obj	86b54caa867a6966
+46	5580	7365497271382538	CMakeFiles/Lab8_Blinn_Phong.dir/stb_image.cpp.obj	b9188b948f828180
+5580	6063	7365497276133155	Lab8_Blinn_Phong.exe	52c71fbd8cf2dd94

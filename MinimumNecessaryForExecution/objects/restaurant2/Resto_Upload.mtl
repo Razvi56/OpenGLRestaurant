@@ -1,0 +1,246 @@
+# Blender 4.0.2 MTL File: 'Resto_Upload.blend'
+# www.blender.org
+
+newmtl Fabric1
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd fabric1_color.jpg
+map_Bump -bm 1.000000 fabric1_normal.jpg
+
+newmtl Fabric2
+Ka 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd fabric2_color.jpg
+map_Ns fabric2_rough.jpg
+map_Bump -bm 1.000000 fabric2_normal.jpg
+
+newmtl Fabric_designs
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd design_color.jpg
+map_Bump -bm 1.000000 design_normal.jpg
+
+newmtl Gradient_metal
+Ns 810.000000
+Ka 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Gradients.png
+
+newmtl Gradient_rubber
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.149606 0.149606 0.149606
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Gradients.png
+
+newmtl Grille
+Ns 490.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd grill.jpg
+
+newmtl KitchenMetals
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd kmetal_color.jpg
+map_Ns kmetal_rough.jpg
+map_Bump -bm 1.000000 kmetal_normal.jpg
+
+newmtl Kitchenoven
+Ns 542.020569
+Ka 1.000000 1.000000 1.000000
+Ks 0.019685 0.019685 0.019685
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd koven_color.jpg
+
+newmtl Lights
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.337509 0.012718
+Ks 0.000000 0.000000 0.000000
+Ke 2.000000 1.220456 0.312039
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl OutsideGlass
+Ka 1.000000 1.000000 1.000000
+Ks 0.572727 0.572727 0.572727
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Outside2.jpg
+map_Ns Outside2_r.jpg
+map_Ke Outside2.jpg
+
+newmtl OutsideGlass2
+Ka 1.000000 1.000000 1.000000
+Ks 0.572727 0.572727 0.572727
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Outside3_color.jpg
+map_Ns Outside3_rough.jpg
+map_Ke Outside3_color.jpg
+
+newmtl Paint
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd paint1_color.jpg
+map_Ns paint1_rough.jpg
+map_Bump -bm 1.000000 paint1_normal.jpg
+
+newmtl floor_tile1
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd tile1_color.jpg
+map_Ns tile1_rough.jpg
+map_Bump -bm 1.000000 tile1_normal.jpg
+
+newmtl floor_wood
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd floor_wood_color.jpg
+map_Ns floor_wood_rough.jpg
+map_Bump -bm 1.000000 floor_wood_normal.jpg
+
+newmtl gold
+Ka 1.000000 1.000000 1.000000
+Ks 0.019685 0.019685 0.019685
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd gold_color.jpg
+map_Ns gold_rough.jpg
+
+newmtl metal
+Ns 640.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.118182 0.118182 0.118182
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Metal_color.jpg
+
+newmtl plate
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd plate_color.jpg
+map_Ns plate_rough.jpg
+map_Bump -bm 1.000000 plate_normal.jpg
+
+newmtl plate2
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd plate1_color.jpg
+map_Ns plate_rough.jpg
+map_Bump -bm 1.000000 plate_normal.jpg
+
+newmtl wood1
+Ns 827.097229
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd wood1_color.jpg
+map_Bump -bm 1.000000 wood1_normal.jpg
+
+newmtl wood2
+Ns 210.370316
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd wood2_color.jpg
+map_Bump -bm 1.000000 wood2_normal.jpg
+
+newmtl wood3
+Ns 210.370316
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd wood3_color.jpg
+map_Bump -bm 1.000000 wood3_normal.jpg
+
+newmtl wood4
+Ns 210.370316
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd wood4_color.tif
+map_Bump -bm 1.000000 wood4_normal.tif
+
+newmtl wood5
+Ns 860.498657
+Ka 1.000000 1.000000 1.000000
+Ks 0.231818 0.231818 0.231818
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd wood4_color.jpg
+map_Bump -bm 1.000000 wood4_normal.jpg
